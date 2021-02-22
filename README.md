@@ -1,35 +1,5 @@
 # Send Email from a *Static* HTML Form using Google Apps Mail!
 
-A ***Step-by-Step Example*** of using an **HTML Form** to send a "Contact Us" Message via Email without a Backend Server using a Google Script - No PHP, Python, Ruby, Java, Node.js etc.
-
-## Why?
-
-We needed a way of sending an email from a "*static*" HTML page
-when you don't (*want* to) *have* a *server*.
-
-### *Key Advantages*
-
-+ No "*Backend*" to Deploy/Maintain/Pay for
-+ ***Fully Customisabe*** - every aspect is customisable!
-+ Email *sent via* ***Google Mail*** which is ***Whitelisted Everywhere*** (*high deliverability success*)
-+ **Collect/Store** any **form data** in a ***Spreadsheet*** for easy viewing  
-(*perfect if you need to share it with non-technical people*)
-
-## What?
-
-Instead of using a server to send your email,
-which is *easy* but requires *maintenance*,  
-use Google to send mail on your behalf
-and use Google Spreadsheets to keep track of the data!
-
-> You *could* use a "*free*" service like http://formspree.io/ to process your form submissions
-if you don't care where you are sending your data and want to manage the data submitted  
-in your email inbox (*messy ... yuck*!)  
-*Or*... you can *invest* a few minutes and keep data private/manageable.
-*Take your pick*.
-
-## *How*?
-
 ### 1. Make a Copy of the Sample Spreadsheet
 
 > Sample: https://docs.google.com/spreadsheets/d/1Bn4m6iA_Xch1zzhNvo_6CoQWqOAgwwkOWJKC-phHx2Q/
