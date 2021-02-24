@@ -2,7 +2,7 @@
 
 ### 1. Make a Copy of the Sample Spreadsheet
 
-> Sample: https://docs.google.com/spreadsheets/d/1Bn4m6iA_Xch1zzhNvo_6CoQWqOAgwwkOWJKC-phHx2Q/
+> Sample: https://docs.google.com/spreadsheets/d/1rj4-l4mrr5j97CMX9XEf2F0mG40ScY2GY8BJ03gn-1I/edit?usp=sharing
 
 In Google Sheets, Click "**File**" > "**Make a copy**..."
 
